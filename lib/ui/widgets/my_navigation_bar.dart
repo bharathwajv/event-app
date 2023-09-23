@@ -22,11 +22,11 @@ class _MyNavigationBarState extends State<MyNavigationBar> {
           icon: Image.asset("assets/images/ic_home.png", width: 24, height: 24),
           label: "Home",
         ),
-        NavigationDestination(
-          icon:
-              Image.asset("assets/images/ic_ticket.png", width: 24, height: 24),
-          label: "Ticket",
-        ),
+        // NavigationDestination(
+        //   icon:
+        //       Image.asset("assets/images/ic_ticket.png", width: 24, height: 24),
+        //   label: "Ticket",
+        // ),
         NavigationDestination(
             icon: Image.asset("assets/images/ic_calendar.png",
                 width: 24, height: 24),

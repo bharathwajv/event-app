@@ -29,7 +29,7 @@ class MyApp extends StatelessWidget {
               settings: settings,
             );
           case NamedRoutes.ticketScreen:
-            return MaterialPageRoute(
+            return MaterialPageRoute( 
               builder: (context) => const TicketPage(),
               settings: settings,
             );
